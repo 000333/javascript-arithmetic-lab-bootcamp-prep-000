@@ -24,7 +24,7 @@ function dec(a) {
   return a;
 }
 
-function makeInt(a) {
+function makeInt() {
   parseInt('a', 10);
   return a;
 }
