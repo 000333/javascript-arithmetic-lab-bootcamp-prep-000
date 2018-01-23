@@ -28,3 +28,5 @@ function makeInt(a) {
   parseInt(a);
   return a;
 }
+
+function makeInt()
