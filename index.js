@@ -15,11 +15,16 @@ function divide(a,b) {
 }
 
 function inc(a) {
-  a++
+  a++;
   return a;
 }
 
 function dec(a) {
-  a--
+  a--;
+  return a;
+}
+
+function makeInt(a) {
+  parseInt(a);
   return a;
 }
