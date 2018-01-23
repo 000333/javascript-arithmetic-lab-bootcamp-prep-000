@@ -24,12 +24,12 @@ function dec(a) {
   return a;
 }
 
-function makeInt() {
+function makeInt(a) {
   parseInt('a', 10);
   return a;
 }
 
-function preserveDecimal() {
+function preserveDecimal(a) {
   parseFloat('a');
   return a;
 }
